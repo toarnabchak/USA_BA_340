@@ -87,6 +87,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 * **Prompt Engineering Tutorial-5:** https://learnprompting.org/docs/intro
 * **Prompt Engineering Tutorial-6:** https://www.mygreatlearning.com/blog/prompt-engineering-complete-guide/
 * **Prompt Engineering Tutorial-7:** https://datasciencehorizons.com/wp-content/uploads/2023/06/Mastering_Generative_AI_and_Prompt_Engineering_Data_Science_Horizons_Final_2023.pdf
+* **A new medium for presenting ideas, Powered by AI:** https://gamma.app/
 
 **MS-Copilot Resources by Microsoft** <br>
 
